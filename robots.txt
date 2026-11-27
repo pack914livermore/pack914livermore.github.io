@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mighty914.org/sitemap.xml
